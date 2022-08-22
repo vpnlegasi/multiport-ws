@@ -1,3 +1,9 @@
+# multiport-ws update
+
+```
+apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
+```
+
 # multiport-ws
 
 ```
