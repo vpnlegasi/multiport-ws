@@ -1,4 +1,4 @@
-# multiport-ws update
+# multiport-ws update for Debian 10 only for first run
 
 ```
 apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
