@@ -1,0 +1,54 @@
+
+==================-[ VPN LEGASI Premium ]-==================
+
+------------------------------------------------------------
+                   Service & Port Information               
+------------------------------------------------------------
+                             OpenVPN                        
+------------------------------------------------------------
+   - OpenSSH                 : 22
+   - SSH Websocket           : 80 [OFF]
+   - SSH SSL Websocket       : 443
+   - Stunnel4                : 447, 777
+   - Dropbear                : 109, 143
+   - Badvpn                  : 7100-7900
+   - Nginx                   : 81
+   - Squid                   : 8080
+   - OHP                     : 8000
+------------------------------------------------------------
+                            XRAY HTTPS                      
+------------------------------------------------------------
+   - XRAY  Vmess TLS         : 443
+   - XRAY  Vmess gRPC        : 443
+   - XRAY  Vless TLS         : 443
+   - XRAY  Vless gRPC        : 443
+   - XRAY  Trojan TLS        : 443
+   - XRAY  Trojan gRPC       : 443
+   - XRAY  Sodosok TLS       : 443
+   - XRAY  Sodosok gRPC      : 443
+------------------------------------------------------------
+                            XRAY HTTP                       
+------------------------------------------------------------
+   - XRAY  Vmess None TLS    : 80
+   - XRAY  Vless None TLS    : 80
+   - XRAY  Trojan None TLS   : 80
+   - XRAY  Sodosok None TLS  : 80
+------------------------------------------------------------
+               Server Information & Other Features          
+------------------------------------------------------------
+   - Timezone                : Asia/Kuala_Lumpur (GMT +8)
+   - Auto Backup Status      : [OFF]
+   - Fail2Ban                : [ON]
+   - Dflate                  : [ON]
+   - IPtables                : [ON]
+   - IPv6                    : [OFF]
+   - AutoKill Multi Login User
+   - Auto Delete Expired Account
+   - Fully automatic script
+   - VPS settings
+   - Backup Data
+   - Restore Data
+   - Full Orders For Various Services
+------------------------------------------------------------
+
+===============-[ Script MOD By VPN Legasi ]-===============
